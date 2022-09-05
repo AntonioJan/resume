@@ -1,0 +1,36 @@
+@media (max-width:650px){
+    *{
+        margin: auto;
+        font-size: 15px;
+        text-align: center;
+    }
+    p {
+        margin-bottom: 5px;
+    }
+
+    .text{
+        margin-bottom: 7px;
+    }
+
+    ul{
+        padding-inline-start: none;
+    }
+
+    .set a {
+        border: none;
+    }
+
+    .list-one, .list-two {
+        margin-left: 5px;
+    }
+
+    a:hover {
+        color: #1E2022;
+        font-size: 20px;
+     }
+
+
+     .maui {
+        width: 300px;
+     }
+}
